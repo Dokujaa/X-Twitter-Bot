@@ -1,7 +1,7 @@
 How to Use:
 
 Clone the repository to your local machine
-Go to https://developer.x.com/en/docs/x-api and https://developer.spotify.com/documentation/web-api and grab the
+Go to https://developer.x.com/en/docs/x-api and https://developer.spotify.com/documentation/web-api
 
 On https://developer.x.com/en/docs/x-api, grab the consumer key and consumer secret
 
