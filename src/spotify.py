@@ -31,7 +31,7 @@ def requestAPI(ids, secret):
 
     # Send the HTTP GET request to the Spotify API for the top tracks
     response = requests.get(
-        'https://api.spotify.com/v1/playlists/37i9dQZEVXbMDoHDwVN2tF/tracks?limit=10',
+        'https://api.spotify.com/v1/playlists/37i9dQZEVXbMDoHDwVN2tF/tracks?limit=50',
         headers=headers
     )
 
